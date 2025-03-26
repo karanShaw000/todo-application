@@ -48,8 +48,8 @@ Start the server
 
 ![Login Page Screenshot](public/login-page-ss.png)
 
-![Home Page Screenshot](public/login-page-ss.png)
+![Home Page Screenshot](public/homepage.png)
 
-![Home Page after interaction Screenshot](public/login-page-ss.png)
+![Home Page after interaction Screenshot](public/homepage-after-ux.png)
 
 
