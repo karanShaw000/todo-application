@@ -7,6 +7,8 @@ If Todo has outdoor activity set,  weather condition of that day will fetch and 
 
 All the todos will sort by priority order high -> medium -> low
 
+[The application is deployed in netlity](https://todo-application000.netlify.app/)
+
 
 ## Run Locally
 
